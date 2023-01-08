@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Daniel Githiomi with the username: @githiomi
-- 👀 I’m interested in coding and using my skills to make improvements in the tech world.
-- 🌱 I’m currently learning Flutter using Dart to help me in Mobile App Develpment
+- 👋 Hi, I’m Daniel Githiomi with the username: @githiomi on Github
+- 👀 My interests are in application development, coding and using my skills to make improvements in the tech world.
+- 🌱 I’m currently learning Flutter using Dart to help me in Mobile App Develpment while improving my knowledge in Java, Python and Javascript.
+- 👌 Making use of my time to work on freelance websites to improve my enterprise skills.
+- 🤖 Working to learn frameworks that will enable me to use my programming skills in real world applications.
 - 💞️ I’m looking to collaborate on multiple projects with as many people as possible to get as many products as possible into the market
 - 📫 You can contact me through email at danielgithiomi@gmail.com 
