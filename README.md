@@ -1,36 +1,28 @@
-- 👋 Hi, I’m Daniel Githiomi with the username: @githiomi on Github
-- 👀 My interests are in application development, coding and using my skills to make improvements in the tech world.
-- 🌱 I’m currently learning Flutter using Dart to help me in Mobile App Develpment while improving my knowledge in Java, Python and Javascript.
-- 👌 Making use of my time to work on freelance websites to improve my enterprise skills.
-- 🤖 Working to learn frameworks that will enable me to use my programming skills in real world applications.
-- 💞️ I’m looking to collaborate on multiple projects with as many people as possible to get as many products as possible into the market
-- 📫 You can contact me through email at danielgithiomi@gmail.com 
-
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+<img src="https://github.com/githiomi/githiomi/blob/main/dark_theme_header.gif#gh-dark-mode-only" align="center" height="350" />
+<img src="https://github.com/githiomi/githiomi/blob/main/light_theme_header.gif#gh-light-mode-only" align="center" height="350" />
 </div>  
   
 
-# <div align="center">Developer Full Stack / Angular - NodeJS</div>  
+# <div align="center">Web and Mobile Developer</div>  
 
-### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
+### <div align="center">🚧 You can view my portfolio [here](https://githiomi.github.io/My-Portfolio/) 🚧</div><br />
 
-- 🌱 I’m currently learning ThreeJS / Blender  
+- 👋 Hello world, I’m Daniel Githiomi
+
+- 🤖 My interests are in application development, coding and using my skills to make improvements in the tech world.
+
+- 🌱 I'm currently learning Flutter using Dart to help me in Mobile App Develpment while improving my knowledge in Java, Python and Javascript.
+
+- 👌 Making use of my time to work on freelance websites and collaborating on multiple projects
   
 
-- 💻 All of my projects are available at [https://thomascauquil.fr](https://thomascauquil.fr)  
-  
-
-- ✉️ How to reach me [contact@thomascauquil.fr](mailto:contact@thomascauquil.fr)  
+- 💻 You can reach me at [danielgithiomi@gmail.com](mailto:danielgithiomi@gmail.com)
   
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
-
-
+<table><tr><td valign="top" align="center" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -38,36 +30,25 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### DevOps
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 </div>
 
 </td></tr></table>  
@@ -75,29 +56,15 @@
 <br/>  
 
 <div align="center">
-<a href="https://github.com/thomasync" target="_blank">
+<a href="https://github.com/githiomi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://cauquil.welovedevs.com/" target="_blank">
-<img src=https://i.ibb.co/dr1Jw3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376.png alt=medium style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/thomasync" target="_blank">
+<a href="https://linkedin.com/in/daniel-githiomi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/thomasynchrone" target="_blank">
+<a href="https://twitter.com/daniel_githiomi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
   
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomasync&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomasync&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+<br/>
