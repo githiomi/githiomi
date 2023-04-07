@@ -10,13 +10,13 @@
 
 - 👋 Hello world, I’m Daniel Githiomi
 
-- 🤖 My interests are in application development, coding and using my skills to make improvements in the tech world.
+- 🤖 My interests are in application development, coding and using my skills to create impactful technological solutions.
 
-- 🌱 I'm currently learning Flutter using Dart to help me in Mobile App Develpment while improving my knowledge in Java, Python and Javascript.
+- 🌱 I'm currently learning Flutter using Dart for Mobile App Develpment while improving my knowledge in Java, Python and Javascript.
 
 - 👌 Making use of my time to work on freelance websites and collaborating on multiple projects
   
-
+  
 - 💻 You can reach me at [danielgithiomi@gmail.com](mailto:danielgithiomi@gmail.com)
   
 
