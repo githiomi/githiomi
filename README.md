@@ -6,7 +6,7 @@
 
 # <div align="center">Web and Mobile Developer</div>  
 
-### <div align="center">🚧 You can view my portfolio [here](https://githiomi.github.io/Daniel-Githiomi) 🚧</div>
+### <div align="center">🚧 You can view my portfolio <a href="https://githiomi.github.io/Daniel-Githiomi" target="_blank">here</a> 🚧</div>
 
 <br />
 
