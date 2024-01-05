@@ -5,7 +5,7 @@
   
 
 # <div align="center">Web and Mobile Developer</div>
-## <div align="center">Make it work, make it right, make it fast.</div>  
+## <span align="center">Make it work, make it right, make it fast.</span>  
 
 ### <div align="center">🚧 You can view my portfolio <a href="https://githiomi.github.io/Daniel-Githiomi" target="_blank">here</a> 🚧</div>
 
