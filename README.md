@@ -5,15 +5,17 @@
   
 
 # <div align="center">Web and Mobile Developer</div>
-## <span align="center">Make it work, make it right, make it fast.</span>  
+### <div align="center">Make it work, make it right, make it fast.</div>  
 
 ### <div align="center">🚧 You can view my portfolio <a href="https://githiomi.github.io/Daniel-Githiomi" target="_blank">here</a> 🚧</div>
 
 <br />
 
-- 👋 Hello world, I’m Daniel Githiomi
+- 👋 </ Hello world \>, I’m Daniel Githiomi
 
 - 🤖 My interests are in application development, coding and using my skills to create impactful technological solutions.
+
+- 🦾 My current speciality is in Full Stack Web Development. Backend Stack -> NodeJs, Java Springboot. Frontend Stack -> Angular, React (Amateur)
 
 - 🌱 I'm currently learning Flutter using Dart for Mobile App Develpment while improving my knowledge in Java, Python and Javascript.
 
